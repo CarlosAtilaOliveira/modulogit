@@ -1,3 +1,2 @@
 Meu primeiro arquivos de teste.
-
-decrição nova para novo Commit...
+modificando e atualizando o arquivo.
